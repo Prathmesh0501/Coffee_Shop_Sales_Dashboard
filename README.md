@@ -20,3 +20,16 @@ This project visualizes and analyzes coffee shop sales data using an interactive
 - Most Revenue Generating Stores: Hell’s Kitchen, Lower Manhattan, Astoria
 - Popular Order Sizes: Regular (31%), Large (30%)
 - Highest Orders on Weekdays: Friday and Thursday
+
+## Dashboard
+<img width="1842" height="740" alt="dashboard" src="https://github.com/user-attachments/assets/6fc0f6f4-2c69-4131-bd4f-dbf53a80b7a7" />
+
+## 📋 Dashboard Features
+
+- **Slicers for Month and Day Selection:** Dynamic filtering by month and weekday to drill down into specific timeframes.
+- **Hourly Sales Quantity:** Line chart showing customer quantity throughout the day.
+- **Category Distribution by Sales:** Pie chart showing the percentage contribution of each product category.
+- **Size Distribution by Orders:** Pie chart revealing customer preference based on drink sizes.
+- **Revenue & Footfall by Store:** Bar chart comparing revenue and footfall across key store locations.
+- **Top Product Revenue:** Bar chart identifying the highest-grossing products.
+- **Orders by Weekday:** Bar chart illustrating daily order trends across the week.
