@@ -1,6 +1,6 @@
 # ☕ Coffee Shop Sales Dashboard
 
-![Uploading dashboard.png…]()
+<img width="1842" height="740" alt="dashboard" src="https://github.com/user-attachments/assets/1c9d9851-05be-4f09-bc52-2408e15654b0" />
 
 
 ## 📊 Project Overview
