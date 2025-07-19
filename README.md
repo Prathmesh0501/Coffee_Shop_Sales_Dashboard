@@ -33,3 +33,15 @@ This project visualizes and analyzes coffee shop sales data using an interactive
 - **Revenue & Footfall by Store:** Bar chart comparing revenue and footfall across key store locations.
 - **Top Product Revenue:** Bar chart identifying the highest-grossing products.
 - **Orders by Weekday:** Bar chart illustrating daily order trends across the week.
+
+## 🎯 End Goals
+Enable the management to identify:
+- Best-selling product lines
+- Peak operational hours
+- High-performing stores
+- Customer behavior and preferences
+Facilitate data-driven decisions for:
+- Inventory planning
+- Workforce scheduling
+- Promotional strategies
+- Store-level performance optimization
