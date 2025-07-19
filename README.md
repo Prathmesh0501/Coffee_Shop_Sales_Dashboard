@@ -40,6 +40,7 @@ Enable the management to identify:
 - Peak operational hours
 - High-performing stores
 - Customer behavior and preferences
+
 Facilitate data-driven decisions for:
 - Inventory planning
 - Workforce scheduling
