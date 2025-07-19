@@ -9,3 +9,14 @@ This project visualizes and analyzes coffee shop sales data using an interactive
 ## 🎯 Project Aim
 - To analyze sales performance, footfall, and customer preferences across different time frames and store locations.
 - To help business stakeholders identify peak business hours, top-performing products, and customer preferences in order to drive better decision-making.
+
+## 🔍 Key Insights
+-Total Sales: ₹6,98,812
+-Total Footfall: 1,49,116 customers
+-Avg Bill per Person: ₹4.69
+-Avg Order per Person: 1.44
+-Peak Hours: 8 AM to 10 AM
+-Top Products by Revenue: Barista Espresso, Brewed Chai Tea, Hot Chocolate
+-Most Revenue Generating Stores: Hell’s Kitchen, Lower Manhattan, Astoria
+-Popular Order Sizes: Regular (31%), Large (30%)
+-Highest Orders on Weekdays: Friday and Thursday
